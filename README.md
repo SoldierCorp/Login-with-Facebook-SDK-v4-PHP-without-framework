@@ -1,4 +1,4 @@
-Login-with-Facebook-SDK-PHP-without-framework
+Login with Facebook SDK v4 PHP without framework
 =============================================
 
 A simple code using the Facebook SDK v4 for PHP without framework.
